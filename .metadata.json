@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bfast",
+    "oncran": true
+  },
+  {
+    "package": "strucchangeRcpp",
+    "oncran": true
+  }
+]
